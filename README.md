@@ -22,8 +22,7 @@ Users can browse and submit reviews, while administrators can manage films, revi
 ## Database Setup
 
 1. Open phpMyAdmin
-2. Create a new database (e.g. film_review)
-3. Import the file: /database/film_review.sql
+2. Import the file: reviewfilm.sql
 
 ## How to Run
 
